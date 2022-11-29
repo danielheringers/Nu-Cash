@@ -11,7 +11,7 @@ function InitalPage() {
         <div className="Container">
           <div className="Iniciar">
             <div className="NomeEmpresa">
-              <p className="Nu">Nu</p> <p className="Kenzie">Kenzie</p>
+              <p className="Nu">Nu</p> <p className="Cash">Cash</p>
             </div>
             <p className="Descricao">Centralize o controle das suas finanças</p>
             <small className="SubDescricao">de forma rápida e segura</small>
